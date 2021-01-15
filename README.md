@@ -55,4 +55,4 @@ NDVI values can also be averaged over time to establish “normal” growing con
 Calculating NDVI for our Area of Interest
 We already have our downloaded data in the form of a .tiff image. In this section, we shall calculate and NDVI index and analyse it.
 
-BY RISHABH DHENKAWAT
+
